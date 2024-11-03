@@ -1,0 +1,32 @@
+@font-face {
+    font-family: YoungSeriff;
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf)
+}
+@font-face {
+    font-family: outfit;
+    src: url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+
+
+
+.title {
+font-size: 21x;
+font-family: YoungSeriff;
+}
+.prep {
+    font-size: 18;
+    font-family: outfit;
+}
+.header {
+    font-size: 25px;
+    font-family: YoungSeriff;
+}
+.list {
+    font size: 16px;
+    font-family: outfit;
+}
+.table {
+    font-size: 16px;
+    font-family: outfit;
+}
